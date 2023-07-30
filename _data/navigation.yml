@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "KLU Dersleri/KLU Courses"
-    url: /courses/
+ - title: "KLU Dersleri/KLU Courses"
+   url: /courses/
     
-  - title: "Yayınlarım/Publications"
+ - title: "Yayınlarım/Publications"
     url: /publications/
 
   #- title: "Talks"
@@ -17,9 +17,9 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+   
+  - title: "Hakkımda/About Me"
+    url: /cv/
     
-   - title: "Hakkımda/About Me"
-     url: /cv/
-    
-   - title: "İletişim/Contact"
-     url: /markdown/
+  - title: "İletişim/Contact"
+    url: /markdown/
