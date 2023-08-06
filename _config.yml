@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Fatih Bal"
+title                    : "Dr. Fatih Bal Web Site"
 title_separator          : "-"
 name                     : &name "Fatih Bal"
 description              : &description "personal description"
