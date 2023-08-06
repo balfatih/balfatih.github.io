@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'am Fatih Bal."
+title: "Hello there, I'm Fatih Bal."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
