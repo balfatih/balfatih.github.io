@@ -5,6 +5,12 @@ main:
     
  - title: "Yayınlarım/Publications"
    url: /publications/
+   
+ - title: "Hakkımda/About Me"
+   url: /cv/
+    
+ - title: "İletişim/Contact"
+   url: /markdown/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -18,8 +24,3 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
    
- - title: "Hakkımda/About Me"
-   url: /cv/
-    
- - title: "İletişim/Contact"
-   url: /markdown/
