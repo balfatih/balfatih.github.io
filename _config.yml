@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Fatih Bal Web Site"
+title                    : "Dr. Fatih Bal's Homepage"
 title_separator          : "-"
 name                     : &name "Fatih Bal"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fatih Bal"
   avatar           : "fatih_bal.png"
-  bio              : "[Kırklareli Üniversitesi](https://www.klu.edu.tr/) / Yazılım Mühendisliği Bölümü"
+  bio              : "Kırklareli University / Software Engineering"
   location         : "Location"
   employer         :
   pubmed           : 
