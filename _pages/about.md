@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: hakkımda
 permalink: /
-subtitle: <a href='#'>Dr. Öğr. Üyesi </a>. Kırklareli Üniversitesi. Mühendislik Fakültesi. Yazılım Mühendisliği Bölümü
+subtitle: <a href='https://avesis.klu.edu.tr/fatihbal'>Dr. Öğr. Üyesi </a>. Kırklareli Üniversitesi. Mühendislik Fakültesi. Yazılım Mühendisliği Bölümü
 
 profile:
   align: right
