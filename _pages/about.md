@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Dr. Öğr. Üyesi </a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Dr. Öğr. Üyesi </a>. Kırklareli Üniversitesi. Mühendislik Fakültesi. Yazılım Mühendisliği Bölümü
 
 profile:
   align: right
