@@ -9,8 +9,8 @@ profile:
   image: prof_pic_fatih.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Kayalı Kampüsü</p>
-    <p>123 Mühendislik Fakültesi Laboratuvarları B Blok</p>
+    <p>Kayalı Kampüsü</p>
+    <p>Mühendislik Fakültesi Laboratuvarları B Blok</p>
     <p>Kırklareli, Türkiye, 39010</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
