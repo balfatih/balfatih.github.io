@@ -1,0 +1,8 @@
+/* Tema Rengini Twitter Mavisi Olarak Ezme (Override) */
+:root {
+  --global-theme-color: #1DA1F2;
+}
+
+html[data-theme='dark'] {
+  --global-theme-color: #1DA1F2;
+}
