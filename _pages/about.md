@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Kırklareli University</p>
-    <p>Kayalı Campus, Faculty of Engineering Laboratories, Block B</p>
-    <p>Kırklareli, Türkiye, 39010</p>
+    <p>Kayalı Campus, Faculty of Engineering Laboratories, Block B, Kırklareli, Türkiye</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the [Department of Software Enginnering](https://yazilim.klu.edu.tr/) at Kırklareli University. 
+I am an Assistant Professor in the [Department of Software Engineering](https://yazilim.klu.edu.tr/) at Kırklareli University [(KLU)] (https://www.klu.edu.tr/), and a Researcher at the [Food Supply Safety and Digitalization Joint Application and Research Center](https://gadom.klu.edu.tr/). 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
