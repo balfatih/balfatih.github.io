@@ -3,7 +3,39 @@
 
 @string{aps = {American Physical Society,}}
 
-@Article{app15063236,
+@article{diagnostics16152418,
+  author = {Bal, Fatih and Cüre, Osman},
+  title = {Explainable Clinical Decision Support for Metabolic Index Prediction in Gout Patients Using GA-Optimized Ensemble Learning Models},
+  journal = {Diagnostics},
+  volume = {16},
+  year = {2026},
+  number = {15},
+  abbr={SCI-Expanded},
+  preview = {diagnostics.webp},  
+  article-number = {2418},
+  url = {https://www.mdpi.com/2075-4418/16/15/2418},
+  PubMedID = {42587655},
+  abstract = {Background/Objectives: Metabolic indices such as HOMA-IR, METS-IR and TyG play a critical role in determining cardiometabolic risk and insulin resistance in clinical practice. This study aims to simultaneously predict these three indices using ensemble learning models, based on demographic, clinical, and laboratory data from patients with gout. Methods: Demographic, retrospective clinical, and laboratory data from 411 patients diagnosed with gout were analyzed, and a logarithmic transformation was applied to address skewness in the target variable. A genetic algorithm was used to identify relevant features for predicting metabolic indices, and four scenarios were designed. Five ensemble learning models were optimized using fine-tuning with Optuna. The models’ decisions were clinically validated using SHAP analysis. Results: Across all scenarios, the CatBoost model combined with the GA + Log-Transformed framework achieved the highest prediction accuracy and the lowest error rates. Notably, when predicting the TyG index, it simulated the underlying formula with near-perfect accuracy. SHAP analysis confirmed that CatBoost successfully mapped clinical pathophysiology by prioritizing insulin levels for HOMA-IR, BMI for METS-IR, and triglyceride variance for the TyG index. Conclusions: The proposed GA + Log-Transformed CatBoost workflow provides a highly accurate, non-invasive and interpretable clinical decision support system. This study demonstrates that the ensemble architecture effectively captures complex pathophysiological patterns aligned with medical knowledge rather than merely memorizing statistical noise.},
+  doi = {10.3390/diagnostics16152418}
+}
+
+@article{article_1783206, 
+  title={Optimize Edilmiş Yapay Sinir Ağı Modeli ile Anemi Türlerinin Çoklu Sınıflandırılması}, 
+  journal={Bilgisayar Bilimleri ve Mühendisliği Dergisi}, 
+  volume={19}, 
+  pages={95–106}, 
+  year={2026}, 
+  abbr={TR Dizin},
+  preview = {bbmd.jpg},
+  doi={10.54525/bbmd.1783206}, 
+  url={https://izlik.org/JA64KC95NT}, 
+  author={Fatih Bal and Ayça Albayrak}, 
+  keywords={Yapay sinir ağı, Anemi Sınıflandırma, Klinik Karar Destek Sistemi, Optimizasyon}, 
+  abstract={Bu çalışmada, yapay sinir ağı (ANN) kullanılarak normositik hipokromik anemi (NHA), normositik normokromik anemi (NNA), demir eksikliği anemisi (IDA) ve sağlıklı vakaları ayırt etmek için kapsamlı bir sınıflandırma modeli geliştirilmiştir. İlk olarak, eksik, hatalı ve yinelenen kayıtlar ortadan kaldırılarak veri ön işleme gerçekleştirildi ve veri kümesi boyutu 10.733’ten 1.033 örneğe indirildi. Isolation Forest algoritması ile aykırı değer tespiti gerçekleştirildi ve 966 temiz örnek elde edildi. Ardından, Robust Scaler yöntemi kullanılarak veri normalizasyonu uygulandı. Bir giriş katmanı, dört gizli katman ve bir çıkış katmanına sahip bir ANN modeli, Optuna hiperparametre optimizasyonu ile optimize edildi. Önerilen model %95,36 doğruluk, %95,39 F1 puanı ve 93,71 Matthews Korelasyon Katsayısı (MCC) elde etti. Ayrıca, model hem PR AUC (%99,26) hem de ROC AUC (%99,71) altında yüksek alan puanları elde ederek güçlü sınıflandırma yeteneğini doğruladı. Farklı anemi türleri arasında modelin etkinliğini değerlendirmek için sınıf bazında performans da analiz edildi. Ek olarak, ANN performansını etkileyen en etkili özellikleri belirlemek için Permütasyon Özellik Önem analizi kullanıldı. Son olarak, önerilen yaklaşımın pratik kullanılabilirliğini göstermek için web tabanlı bir uygulama geliştirildi ve kullanıma sunuldu. Sonuçlar, önerilen ANN çerçevesinin anemi alt tiplerinin sınıflandırılması için sağlam ve doğru bir çözüm sağladığını ve klinik karar destek sistemlerine etkili bir şekilde entegre edilebileceğini göstermektedir.}, 
+  number={1}
+}
+
+@article{app15063236,
   author = {Osman Cüre and Fatih Bal},
   title = {Application of Machine Learning for Identifying Factors Associated with Renal Function Impairment in Gouty Arthritis Patients},
   journal = {Applied Sciences},
@@ -24,7 +56,7 @@
   pages={176–200}, 
   year={2025}, 
   abbr={TR Dizin},
-  preview = {itiracet.png},
+  preview = {iticaret.png},
   doi={10.55071/ticaretfbd.1597150}, 
   url={https://izlik.org/JA54DN56HB}, 
   author={Fatih Bal and Fatih Kayaalp}, 
