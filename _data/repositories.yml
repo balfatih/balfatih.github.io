@@ -4,11 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - YAZ16303_Software_Design_Architecture_2025_Fall_Semester
-  - YAZ20411_Deep_Learning_2025_Fall_Semester
-  - Code_Smell
-  - BreastCancerClassification
-  - AnemiaClassification
-  - RaisinClassification 
-  - Comparing_SMOTE_ML_Methods 
-  - Determination_of_Productivity_for_Apple
+  - balfatih/YAZ16303_Software_Design_Architecture_2025_Fall_Semester
+  - balfatih/YAZ20411_Deep_Learning_2025_Fall_Semester
+  - balfatih/Code_Smell
+  - balfatih/BreastCancerClassification
+  - balfatih/AnemiaClassification
+  - balfatih/RaisinClassification 
+  - balfatih/Comparing_SMOTE_ML_Methods 
+  - balfatih/Determination_of_Productivity_for_Apple
