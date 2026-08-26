@@ -25,36 +25,32 @@ cv:
     Education:
       - institution: Institute of Natural Sciences, Duzce University
         location: Düzce, Türkiye
-        area: Computer Engineering, Ph.D.
+        area: Computer Engineering,
         studyType: Ph.D.
         start_date: 2017
         end_date: 2023
         score: ""
         courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+
 
       - institution: Institute of Natural Sciences, Beykent University
         location: Istanbul, Türkiye
-        area: Computer Engineering, M.Sc.
+        area: Computer Engineering,
         studyType: M.Sc.
         start_date: 2015
         end_date: 2017
         highlights:
-          - Description 1.
-          - Description 2.
+
 
       - institution: Faculty of Engineering and Natural Sciences, Maltepe University
         location: Istanbul, Türkiye
-        area: Software Engineering, B.Sc.
+        area: Software Engineering,
         studyType: B.Sc.
         start_date: 2010
         end_date: 2014
         highlights:
-          - Description 1.
-          - Description 2.
-
+ 
       - institution: Sarayönü Vocational School, Selçuk University
         location: Konya, Türkiye
         area: Computer Technology and Programming
@@ -62,46 +58,30 @@ cv:
         start_date: 2006
         end_date: 2008
         highlights:
-          - Description 1.
-          - Description 2.
+
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
+      - company: Department of Software Engineering, Kırklareli University
+        position: Assistant Professor
+        location: Kırklareli, Türkiye
+        start_date: 2024
+        end_date: Cont.
         summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Relativity
-          - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Department of Software Engineering, Kırklareli University
+        position: Instructor
+        location: Kırklareli, Türkiye
+        start_date: 2018
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Department of Software Engineering, Maltepe University
+        position: Resarch Assistant
+        location: İstanbul, Türkiye
+        start_date: 2016
+        end_date: 2018
 
     Volunteer:
       - company: People's Climate March
