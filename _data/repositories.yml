@@ -4,10 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - YAZ16303_Software_Design_Architecture_2025_Fall_Semester
+  - YAZ20411_Deep_Learning_2025_Fall_Semester
+  - Code_Smell
+  - BreastCancerClassification
+  - AnemiaClassification
+  - RaisinClassification 
+  - Comparing_SMOTE_ML_Methods 
+  - Determination_of_Productivity_for_Apple
