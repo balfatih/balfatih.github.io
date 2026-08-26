@@ -2,10 +2,8 @@
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
 
-"TR Dizin":
+"Tr-Dizin":
   url: https://journals.aps.org/
-  color: "#28a745"
 
-"International Conferences":
-  url: https://journals.aps.org/
-  color: "#B9CC1B"
+"Vision":
+  color: "#009f36"
