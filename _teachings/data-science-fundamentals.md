@@ -4,13 +4,13 @@ title: Derin Öğrenme / Deep Learning
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
 instructor: Dr. Öğr. Üyesi Fatih Bal
 year: 2026
-term: Fall
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
+term: Fall Semester
+location: Faculty of Engineering, Room 2024
+time: Mondays, 1:30-4:30 PM
 course_id: data-science-fundamentals
 schedule:
   - week: 1
-    date: Feb 5
+    date: Sep 14
     topic: Introduction to Data Science
     description: Overview of the data science workflow and key concepts.
     materials:
@@ -20,7 +20,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 2
-    date: Feb 12
+    date: Sep 21
     topic: Data Collection and APIs
     description: Methods for collecting data through APIs, web scraping, and databases.
     materials:
@@ -30,7 +30,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 3
-    date: Feb 19
+    date: Sep 28
     topic: Data Cleaning and Preprocessing
     description: Techniques for handling missing values, outliers, and data transformation.
     materials:
@@ -40,7 +40,7 @@ schedule:
         url: https://github.com/
 
   - week: 4
-    date: Feb 26
+    date: Oct 5
     topic: Exploratory Data Analysis
     description: Descriptive statistics, visualization, and pattern discovery.
     materials:
@@ -50,7 +50,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 5
-    date: Mar 4
+    date: Oct 12
     topic: Statistical Analysis
     description: Hypothesis testing, confidence intervals, and statistical inference.
     materials:
@@ -60,7 +60,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
 
   - week: 6
-    date: Mar 11
+    date: Oct 19
     topic: Data Visualization
     description: Principles and tools for effective data visualization.
     materials:
@@ -68,6 +68,96 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
       - name: Assignment 3
         url: /assets/pdf/example_pdf.pdf
+
+  - week: 7
+    date: Oct 26
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf        
+
+  - week: 8
+    date: Nov 2
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf
+        
+  - week: 9
+    date: Nov 9
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf        
+
+  - week: 10
+    date: Nov 16
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf
+        
+  - week: 11
+    date: Nov 23
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf        
+        
+  - week: 12
+    date: Nov 30
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf
+        
+  - week: 13
+    date: Dec 7
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf        
+        
+  - week: 14
+    date: Dec 14
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf
+        
+  - week: 15
+    date: Dec 21
+    topic: Data Visualization
+    description: Principles and tools for effective data visualization.
+    materials:
+      - name: Lecture Notes
+        url: /assets/pdf/example_pdf.pdf
+      - name: Assignment 3
+        url: /assets/pdf/example_pdf.pdf                
 ---
 
 ## Course Overview
@@ -92,6 +182,8 @@ This course provides a comprehensive introduction to data science principles and
 
 ## Grading
 
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+- Midterm: 30%
+- Final: 50%
+- Quiz: 5%
+- Project: 10%
+- Participation: 5%
