@@ -5,14 +5,14 @@ description: This course covers the foundational aspects of data science, includ
 instructor: Dr. Öğr. Üyesi Fatih Bal
 year: 2026
 term: Fall Semester
-location: Faculty of Engineering, Room 2024
+location: Faculty of Engineering, Room 204
 time: Mondays, 1:30-4:30 PM
-course_id: data-science-fundamentals
+course_id: deep-learning
 schedule:
   - week: 1
     date: Sep 14
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
+    topic: Introduction to Artificial Intelligence, Machine Learning, and Deep Learning
+    description: Overview of the artificial intelligence, machine learning, deep learning.
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
