@@ -1,6 +1,6 @@
 ---
 layout: about
-title: hakkımda
+title: about
 permalink: /
 subtitle: <a href='https://avesis.klu.edu.tr/fatihbal'>Dr. Öğr. Üyesi </a>. Kırklareli Üniversitesi. Mühendislik Fakültesi. Yazılım Mühendisliği Bölümü
 
