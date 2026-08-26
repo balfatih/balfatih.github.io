@@ -7,7 +7,7 @@ year: 2026
 term: Fall Semester
 location: Faculty of Engineering, Room 301
 time: Wednesdays, 09:30-12:30 AM
-course_id: intro-machine-learning
+course_id: soft-architecture
 schedule:
   - week: 1
     date: Sept 5
