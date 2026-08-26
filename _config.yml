@@ -357,7 +357,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Bal]
-  first_name: [Fatih Bal]
+  first_name: [Fatih, F.]
 
   style: apa
   locale: en
