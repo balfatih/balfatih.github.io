@@ -1,8 +1,8 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Fatih Bal
+  label: Researcher, Assistant Professor
+  email: fatihbal@klu.edu.tr
+  location: Kırklareli, Türkiye
   image: ""
   summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
@@ -15,33 +15,52 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Kırklareli University, Kayalı Campus, Faculty of Engineering Laboratories, Block B, Kırklareli, Türkiye
+    city: Kırklareli
+    region: Kırklareli
+    postalCode: 39100
+    countryCode: TR
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Institute of Natural Sciences, Duzce University
+        location: Düzce, Türkiye
+        area: Computer Engineering, Ph.D.
+        studyType: Ph.D.
+        start_date: 2017
+        end_date: 2023
         score: ""
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
+      - institution: Institute of Natural Sciences, Beykent University
+        location: Istanbul, Türkiye
+        area: Computer Engineering, M.Sc.
+        studyType: M.Sc.
+        start_date: 2015
+        end_date: 2017
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Faculty of Engineering and Natural Sciences, Maltepe University
+        location: Istanbul, Türkiye
+        area: Software Engineering, B.Sc.
+        studyType: B.Sc.
+        start_date: 2010
+        end_date: 2014
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: Sarayönü Vocational School, Selçuk University
+        location: Konya, Türkiye
+        area: Computer Technology and Programming
         studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        start_date: 2006
+        end_date: 2008
         highlights:
           - Description 1.
           - Description 2.
