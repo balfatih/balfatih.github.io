@@ -1,8 +1,8 @@
 ---
 layout: course
-title: Derin Öğrenme / Deep Learning
+title: Deep Learning
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Dr. Öğr. Üyesi Fatih Bal
+instructor: Asst. Prof. Üyesi Fatih Bal
 year: 2026
 term: Fall Semester
 location: Faculty of Engineering, Room 204
