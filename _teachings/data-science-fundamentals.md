@@ -179,8 +179,12 @@ This course provides a comprehensive introduction to data science principles and
 
 ## Textbooks
 
+- <img src="/assets/img/resim1.jpg" alt="Python for Data Analysis" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"](https://www.amazon.com.tr/Hands-Machine-Learning-Scikit-Learn-Tensorflow/dp/1098125975) by Aurelien Geron
+
 - "Python for Data Analysis" by Wes McKinney
 - "Data Science from Scratch" by Joel Grus
+- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition"
+
 
 ## Grading
 
