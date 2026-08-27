@@ -176,9 +176,10 @@ This course provides a comprehensive introduction to data science principles and
 
 ## Prerequisites
 
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
+- Intermediate-level programming language (preferably in Python)
+- Fundamental knowledge of linear algebra, probability, and statistics
+- Ability to work with Python-based data analysis and visualization tools such as NumPy, Pandas, and Matplotlib
+- Basic knowledge of machine learning concepts is recommended but not required
 
 ## Textbooks
 
