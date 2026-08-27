@@ -21,8 +21,8 @@ schedule:
 
   - week: 2
     date: Sep 21
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
+    topic: Data Analysis and Exploratory Data Analysis
+    description: Data types, Structured vs. unstructured data, correlation, Descriptive statistics, histogram, distributions, applications
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -31,8 +31,8 @@ schedule:
 
   - week: 3
     date: Sep 28
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
+    topic: Data Preprocessing and Feature Engineering
+    description: Missing data, outliers, encoding, scaling, data split, data leakage, feature selection etc., applications
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -41,8 +41,8 @@ schedule:
 
   - week: 4
     date: Oct 5
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
+    topic: Regression and Classification with Machine Learning
+    description: Regression and classification models, concepts, applications
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -51,8 +51,8 @@ schedule:
 
   - week: 5
     date: Oct 12
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
+    topic: Model Evaluation and Metrics
+    description: Regression metrics, classification metrics, additional topics
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -61,8 +61,8 @@ schedule:
 
   - week: 6
     date: Oct 19
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Introduction to Artificial Intelligence
+    description: Overview biological neuron, artificial neuron, perceptron, weighti bias, activation functions, architecture of artificial intelligence, applications
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
