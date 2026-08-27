@@ -186,6 +186,6 @@ This course provides a comprehensive introduction to data science principles and
 
 - Midterm: 30%
 - Final: 50%
-- Quiz: 5%
+- Assignment(s): 5%
 - Project: 10%
 - Participation: 5%
