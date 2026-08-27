@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://avesis.klu.edu.tr/fatihbal'>Asst. Prof. </a>. Kırklareli University, Faculty of Engineering, Departmen of Software Engineering
+subtitle: <a href='https://avesis.klu.edu.tr/fatihbal'>Asst. Prof. </a> Kırklareli University, Faculty of Engineering, Departmen of Software Engineering
 
 profile:
   align: right
@@ -27,6 +27,10 @@ latest_posts:
 ---
 
 I am an Assistant Professor in the [Department of Software Engineering](https://yazilim.klu.edu.tr/) at Kırklareli University [(KLU)] (https://www.klu.edu.tr/), and a Researcher at the [Food Supply Safety and Digitalization Joint Application and Research Center](https://gadom.klu.edu.tr/). 
+
+In my research, I focus on developing artificial intelligence models in two main areas: classifying agricultural data and images, and classifying medical data and images. My research interests include designing and optimizing artificial intelligence models, as well as developing optimization and metaheuristic algorithms.
+
+I received my master’s degree in Computer Engineering from Beykent University in 2017 under the supervision of [Assoc. Prof. Atınç Yılmaz](https://avesis.marmara.edu.tr/atinc.yilmaz). I earned my Ph.D. in the Department of Computer Engineering at Düzce University in 2023 under the supervision of [Assoc. Prof. Fatih KAYAALP](https://akademik.duzce.edu.tr/fatihkayaalp). Between 2016 and 2018, I worked as a research assistant in the Department of Software Engineering at Maltepe University. I joined the Department of Software Engineering at Kırklareli University in 2018, where I have been serving as an Assistant Professor since 2024.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
