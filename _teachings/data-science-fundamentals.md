@@ -187,6 +187,8 @@ This course provides a comprehensive introduction to data science principles and
 
 - <img src="/assets/img/Resim4.jpg" alt="datascience" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Data Science from Scratch"](https://www.oreilly.com/library/view/data-science-from/9781492041122/) by Joel Grus
 
+- <img src="/assets/img/Resim5.jpg" alt="deeplearninpython" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Deep Learning with Python"](https://www.oreilly.com/library/view/deep-learning-with/9781617294433/) by Francois Chollet
+
 
 
 ## Grading
