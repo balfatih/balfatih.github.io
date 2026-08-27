@@ -166,10 +166,13 @@ schedule:
 
 This course provides a comprehensive introduction to data science principles and practices. Students will:
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+- Artificial Intelligence, Machine Learning and Deep Learning: Fundamental concepts, terminology, learning paradigms, model parameters, hyperparameters, overfitting, underfitting, bias, variance, and generalization.
+- Data Analysis and Preprocessing: Exploratory data analysis, statistical analysis, visualization, missing-value handling, outlier detection, encoding, normalization, scaling, feature engineering, feature selection, and data leakage.
+- Machine Learning Models: Regression and classification algorithms, including Linear Regression, Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Gradient Boosting, and ensemble methods.
+- Model Evaluation and Performance Metrics: Regression metrics such as MAE, MSE, RMSE, and R², and classification metrics including Accuracy, Precision, Recall, Specificity, F1-score, MCC, Cohen’s Kappa, ROC-AUC, and PR-AUC.
+- Artificial Neural Networks and Deep Learning: Neural network architecture, activation and loss functions, forward propagation, backpropagation, gradient descent, ANN-based regression and classification, and regularization techniques.
+- Deep Learning Architectures: CNNs and modern CNN architectures for image processing, transfer learning, RNN/LSTM/GRU for sequential data, and Transformer-based architectures including Vision Transformers (ViT).
+- Model Optimization and Interpretability: Optimization algorithms, learning-rate scheduling, hyperparameter optimization, model comparison, error analysis, SHAP, Grad-CAM, and end-to-end deep learning applications using real-world datasets.
 
 ## Prerequisites
 
