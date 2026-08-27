@@ -6,7 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - balfatih/YAZ16303_Software_Design_Architecture_2025_Fall_Semester
   - balfatih/YAZ20411_Deep_Learning_2025_Fall_Semester
-  - balfatih/Code_Smell
+  #- balfatih/Code_Smell
   - balfatih/BreastCancerClassification
   - balfatih/AnemiaClassification
   - balfatih/RaisinClassification 
