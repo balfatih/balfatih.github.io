@@ -181,9 +181,12 @@ This course provides a comprehensive introduction to data science principles and
 
 - <img src="/assets/img/Resim1.jpg" alt="Python for Data Analysis" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition"](https://www.amazon.com.tr/Hands-Machine-Learning-Scikit-Learn-Tensorflow/dp/1098125975) by Aurelien Geron
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-- "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition"
+- <img src="/assets/img/Resim2.jpg" alt="Deep-Learning" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Deep Learning"](https://www.amazon.com.tr/Deep-Learning-Yoshua-Bengio/dp/0262035618) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+- <img src="/assets/img/Resim3.png" alt="ptyhondatanlysis" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Python for Data Analysis"](https://wesmckinney.com/book/) by Wes MecKinney
+
+- <img src="/assets/img/Resim4.jpg" alt="datascience" width="70" style="vertical-align: middle; margin-right: 10px;"> ["Data Science from Scratch"](https://www.oreilly.com/library/view/data-science-from/9781492041122/) by Joel Grus
+
 
 
 ## Grading
