@@ -28,6 +28,8 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
       - name: Assignment 1
         url: /assets/pdf/example_pdf.pdf
+      - name: Submit Assigment via Google Forms
+        url: "https://forms.gle/Z5t9gac6Mpovnqrd9" 
 
   - week: 3
     date: Sep 28
