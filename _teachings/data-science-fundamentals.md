@@ -73,8 +73,8 @@ schedule:
 
   - week: 7
     date: Oct 26
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Architectural Design of Artificial Neural Networks
+    description: Dense layer, Functional API, Sequential model, regression ANN, binary and multiclass classificatipn ANN
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -83,8 +83,8 @@ schedule:
 
   - week: 8
     date: Nov 2
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Midterm
+    description: You are responsible for all topics and exercises from Weeks 1, 2, 3, 4, 5, 6, and 7.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -93,8 +93,8 @@ schedule:
         
   - week: 9
     date: Nov 9
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Convolutional Neural Networks
+    description: Convolutional, feature map, stride, padding, pooling, batch normalization, kernel, filter, etc.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -103,8 +103,8 @@ schedule:
 
   - week: 10
     date: Nov 16
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Modern CNN Architectures and Transfer Learning
+    description: LeNet, DenseNet, MobileNet, ConvNext, EfficientNet etc. 
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -113,8 +113,8 @@ schedule:
         
   - week: 11
     date: Nov 23
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: RNN, LSTM, and GRU
+    description: Sequence data, hidden state, recurrent connection, etc. 
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -123,8 +123,8 @@ schedule:
         
   - week: 12
     date: Nov 30
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Attention and Transformer Architecture, Vision Transformer
+    description: Attention, query, self-attention, multi-head attention, transformer encoder and decoder, embedding, ViT architecture etc.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -133,8 +133,8 @@ schedule:
         
   - week: 13
     date: Dec 7
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Hyperparamater Optimization Techniques for Machine Learning and Deep Learning Models
+    description: Optimzations of all models, regularization, hyperparameter optimization algorithms.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -143,8 +143,8 @@ schedule:
         
   - week: 14
     date: Dec 14
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+    topic: Model Interpretability, Error Analysis, and Experimental Design
+    description: Feature importance, permutation importance, SHAP, LIME, Grad-CAM, academic reporting, deatiled of confusion matrix.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -152,8 +152,8 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
         
   - week: 15
-    date: Dec 21
-    topic: Data Visualization
+    date: Dec 21-25
+    topic: End-to-End Deep Learning Project
     description: Principles and tools for effective data visualization.
     materials:
       - name: Lecture Notes
