@@ -12,7 +12,7 @@ schedule:
   - week: 1
     date: Sep 14
     topic: Introduction to Artificial Intelligence, Machine Learning, and Deep Learning
-    description: Overview of the artificial intelligence, machine learning, deep learning.
+    description: Overview of the artificial intelligence, machine learning, and deep learning.
     materials:
       - name: Syllabus
         url: /assets/pdf/example_pdf.pdf
@@ -64,7 +64,7 @@ schedule:
   - week: 6
     date: Oct 19
     topic: Introduction to Artificial Intelligence
-    description: Overview biological neuron, artificial neuron, perceptron, weighti bias, activation functions, architecture of artificial intelligence, applications
+    description: Overview biological neuron, artificial neuron, perceptron, weight, bias, activation functions, architecture of artificial intelligence, applications
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
@@ -134,7 +134,7 @@ schedule:
   - week: 13
     date: Dec 7
     topic: Hyperparamater Optimization Techniques for Machine Learning and Deep Learning Models
-    description: Optimzations of all models, regularization, hyperparameter optimization algorithms.
+    description: Optimizations of all models, regularization, hyperparameter optimization algorithms.
     materials:
       - name: Lecture Notes
         url: /assets/pdf/example_pdf.pdf
