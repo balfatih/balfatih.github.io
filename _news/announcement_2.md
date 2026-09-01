@@ -25,15 +25,25 @@ Gemini AI Plus ile;
 
 :postbox: Özellikle yazılım, mühendislik, araştırma ve akademik çalışma yapan öğrenciler için oldukça faydalı olabilecek bir araç.
 
-👉 Üniversite öğrencisiyseniz, kampanyanın sizin için geçerli olup olmadığını kontrol etmenizi öneriyorum.
-
 ⚠️ Not: Ücretsiz öğrenci kampanyasının uygunluk şartları ve başvuru/aktivasyon süresi Google tarafından belirlenmektedir. Güncel koşulları başvuru öncesinde mutlaka kontrol edin.
 
 :cyclone: Geçtiğimiz yıl ücretsiz olarak sunulan Gemini AI Pro üyeliği, bu yıl AI Plus olarak sunuldu. Geçen yıl ücretsiz Pro abonesi olan öğrenciler, bu yıl ücretsiz olarak sunulan AI Plus'a geçiş yapabilir yada Gemini AI Pro için ücretli kullanım aboneliğine geçebilir. 
 
 :key: Google Gemini'nin ücretsiz ve ücretli sürümleri için bilgilendirme ve öğrenci planını başlatmak için <a href="https://gemini.google/students/">bu linkten erişim sağlayabilirsiniz.</a> 
 
-
+<div style="
+    border: 2px solid #dc3545;
+    background-color: #fff5f5;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 8px;
+    text-align: center;
+    color: #dc3545;
+    font-size: 20px;
+    font-weight: bold;
+">
+    ⚠️ SON TARİH: 31 Aralık 2026!
+</div>
 
 #### Hipster list
 
