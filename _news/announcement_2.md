@@ -14,24 +14,26 @@ Google, uygun şartları sağlayan üniversite öğrencilerine Gemini AI Plus ve
 
 Gemini AI Plus ile;
 
-📚 Ders çalışırken yapay zekâ destekli yardım alabilir,
-📝 Metinleri özetleyebilir ve içerik oluşturabilir,
-💡 Fikir geliştirme ve araştırma süreçlerinizi destekleyebilir,
-💻 Kodlama ve programlama çalışmalarınızda yardım alabilir,
-📄 Akademik çalışmalarınızda dokümanlarınızı analiz ettirebilir,
-🤖 Gelişmiş Gemini modelleri ve yapay zekâ araçlarından yararlanabilirsiniz.
+<ul>
+    <li>📚 Ders çalışırken yapay zekâ destekli yardım alabilir,</li>
+    <li>📝 Metinleri özetleyebilir ve içerik oluşturabilir,</li>
+    <li>💡 Fikir geliştirme ve araştırma süreçlerinizi destekleyebilir,</li>
+    <li>💻 Kodlama ve programlama çalışmalarınızda yardım alabilir,</li>
+    <li>📄 Akademik çalışmalarınızda dokümanlarınızı analiz ettirebilir,</li>
+    <li>🤖 Gelişmiş Gemini modelleri ve yapay zekâ araçlarından yararlanabilirsiniz.</li>
+</ul>
 
-Özellikle yazılım, mühendislik, araştırma ve akademik çalışma yapan öğrenciler için oldukça faydalı olabilecek bir araç.
+
+:postbox: Özellikle yazılım, mühendislik, araştırma ve akademik çalışma yapan öğrenciler için oldukça faydalı olabilecek bir araç.
 
 👉 Üniversite öğrencisiyseniz, kampanyanın sizin için geçerli olup olmadığını kontrol etmenizi öneriyorum.
 
 ⚠️ Not: Ücretsiz öğrenci kampanyasının uygunluk şartları ve başvuru/aktivasyon süresi Google tarafından belirlenmektedir. Güncel koşulları başvuru öncesinde mutlaka kontrol edin.
 
-:fallen_leaf: Geçtiğimiz yıl ücretsiz olarak sunulan Gemini AI Pro üyeliği, bu yıl AI Plus olarak sunuldu. Geçen yıl ücretsiz Pro abonesi olan öğrenciler, bu yıl ücretsiz olarak sunulan AI Plus'a geçiş yapabilir yada Gemini AI Pro için ücretli kullanım aboneliğine geçebilir. 
+:cyclone: Geçtiğimiz yıl ücretsiz olarak sunulan Gemini AI Pro üyeliği, bu yıl AI Plus olarak sunuldu. Geçen yıl ücretsiz Pro abonesi olan öğrenciler, bu yıl ücretsiz olarak sunulan AI Plus'a geçiş yapabilir yada Gemini AI Pro için ücretli kullanım aboneliğine geçebilir. 
 
 :key: Google Gemini'nin ücretsiz ve ücretli sürümleri için bilgilendirme ve öğrenci planını başlatmak için <a href="https://gemini.google/students/">bu linkten erişim sağlayabilirsiniz.</a> 
 
-Yapay zekâyı sadece bir "soru-cevap aracı" olarak değil, öğrenme ve üretme süreçlerinizi destekleyen bir yardımcı olarak kullanmayı unutmayın. 🎯
 
 
 #### Hipster list
