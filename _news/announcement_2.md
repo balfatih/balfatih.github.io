@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 🎓 Öğrenciler İçin Gemini Ücretsiz!
-date: 2015-11-07 16:11:00-0400
+date: 2026-02-09 00:43:18-0400
 inline: false
 related_posts: false
 ---
 
-🎓 Öğrenciler İçin Gemini AI Plus Ücretsiz!
 ---
 
 Yapay zekâ araçlarını eğitim hayatınızda daha etkin kullanmak isteyen öğrenciler için güzel bir fırsat! 🚀
